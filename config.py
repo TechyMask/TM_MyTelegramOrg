@@ -33,7 +33,7 @@ class Config(object):
     # https://github.com/LushaiTech/MyTelegramORG/issues/3
     APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/UseTGOrgBot")
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Please Subscribe ❤️ @JosProjects")
+    FOOTER_TEXT = os.environ.get("FTEXT", "Please Join ❤️ @TechyBots")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
