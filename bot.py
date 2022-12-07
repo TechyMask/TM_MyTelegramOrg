@@ -73,14 +73,13 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ disclaimer', url='https://telegram.me/ZauteKm/353'),
-                    InlineKeyboardButton('source 🙄', url='https://GitHub.com/ZauteKm/MyTelegramOrg')
+                    InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://telegram.me/ZauteKm/353'),
+                    InlineKeyboardButton('🤖 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/TechyBots')
               ],[
-                    InlineKeyboardButton('🤖 bot lists', url='https://t.me/BotzLis'),
-                    InlineKeyboardButton('👥 goup', url='https://telegram.dog/JOSPSupport'),
-                    InlineKeyboardButton('channel 📢', url='https://t.me/JosProjects')
+                    InlineKeyboardButton('😎 𝐀𝐝𝐦𝐢𝐧', url='https://telegram.dog/MrTechyAdminBot'),
+                    InlineKeyboardButton('𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📢', url='https://t.me/TechyMask')
               ],[
-                    InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtube.com/c/TelegramBots')
+                    InlineKeyboardButton('» ⚡ 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐍𝐨𝐰 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 «', url='https://www.youtube.com/@techymask')
                ]
             ]
         )
@@ -183,14 +182,13 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                               InlineKeyboardButton('⚠️ disclaimer', url='https://telegram.me/ZauteKm/353'),
-                               InlineKeyboardButton('source 🙄', url='https://GitHub.com/ZauteKm/MyTelegramOrg')
-                       ],[
-                               InlineKeyboardButton('🤖 bot lists', url='https://telgram.dog/BotzList'),
-                               InlineKeyboardButton('👥 group', url='https://telegram.dog/JOSPSupport'),
-                               InlineKeyboardButton('channel 📢', url='https://telegram.dog/JosProjects')
-                       ],[
-                               InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtube.com/c/TelegramBots')
+                               InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://telegram.me/ZauteKm/353'),
+                               InlineKeyboardButton('🤖 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/TechyBots')
+              ],[
+                               InlineKeyboardButton('😎 𝐀𝐝𝐦𝐢𝐧', url='https://telegram.dog/MrTechyAdminBot'),
+                               InlineKeyboardButton('𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📢', url='https://t.me/TechyMask')
+              ],[
+                               InlineKeyboardButton('» ⚡ 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐍𝐨𝐰 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 «', url='https://www.youtube.com/@techymask')
                         ]
                     ]
                 )
