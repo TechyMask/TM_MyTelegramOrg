@@ -73,7 +73,7 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://telegram.me/ZauteKm/353'),
+                    InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://t.me/c/1825797346/2'),
                     InlineKeyboardButton('🤖 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/TechyBots')
               ],[
                     InlineKeyboardButton('😎 𝐀𝐝𝐦𝐢𝐧', url='https://telegram.dog/MrTechyAdminBot'),
@@ -182,7 +182,7 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                               InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://telegram.me/ZauteKm/353'),
+                               InlineKeyboardButton('⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫', url='https://t.me/c/1825797346/2'),
                                InlineKeyboardButton('🤖 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/TechyBots')
               ],[
                                InlineKeyboardButton('😎 𝐀𝐝𝐦𝐢𝐧', url='https://telegram.dog/MrTechyAdminBot'),
