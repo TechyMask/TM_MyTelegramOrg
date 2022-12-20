@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/ZauteKm/MyTelegramOrg",
+  "repository": "https://github.com/TechyMask/TM_MyTelegramOrg",
   "success_url": "https://telegram.dog/ZauteKm",
   "website": "https://telegram.dog/UseTGOrgBot",
   "env": {
