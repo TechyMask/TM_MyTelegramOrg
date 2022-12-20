@@ -10,7 +10,7 @@
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/ZauteKm/MyTelegramORG">
+  <a href="https://heroku.com/deploy?template=https://github.com/TechyMask/TM_MyTelegramORG">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -18,12 +18,12 @@
 ##Deploy in your VPS
 - clone the repository, locally.
 ```sh
-git clone https://gitHub.com/ZauteKm/MyTelegramOrg.git
+git clone https://gitHub.com/TechyMask/TM_MyTelegramOrg.git
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramOrg
+cd TM_MyTelegramOrg
 ```
 
 - create a virtual environment.
