@@ -9,8 +9,8 @@
     "3"
   ],
   "repository": "https://github.com/TechyMask/TM_MyTelegramOrg",
-  "success_url": "https://telegram.dog/ZauteKm",
-  "website": "https://telegram.dog/UseTGOrgBot",
+  "success_url": "https://telegram.dog/RealTechyMask",
+  "website": "https://telegram.dog/TM_MyTekegramOrgBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
