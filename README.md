@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-- can be found on [Telegram](https://telegram.dog/UseTGOrgBot)
+- can be found on [Telegram](https://telegram.dog/TM_MytelegramOrgBot)
 
 ## installing
 
@@ -10,7 +10,7 @@
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/TechyMask/TM_MyTelegramORG">
+  <a href="https://heroku.com/deploy?template=https://github.com/TechyMask/TM_MyTelegramOrg">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -48,11 +48,11 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@ZauteKm](https://t.me/iZaute/6)
+## [@TechyBots](https://t.me/TechyBots/)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@ZauteKm](https://t.me/JOSpSupport)
+- Please report any issues to the support Admin: [@Admin](https://t.me/WhoisYumikoBot)
 
 
 ## learning
